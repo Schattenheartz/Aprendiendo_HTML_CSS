@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cristian</title>
-</head>
-<body>
-    Schattenheartz - 2026 xd
-</body>
-</html>
+Aprendiendo HTML Y CSS
+
+- T1 - Learning HTML and CSS
+- Cristian
+- 2026
